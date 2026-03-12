@@ -3,7 +3,7 @@
 
 이 repo는 hexagonal 아키텍처를 구현한 어플리케이션에 대한 repo입니다.
 
-이 코드들에 대한 설명으로는,
+이 코드들은,
 인프런의, han jeong heon님의 Microservice 구현 (with EDA,Hexagonal, DDD)강의를 보며,
 거기서 나오는 hexagonal 서비스 코드를 보고, java와 kotlin 2가지 버전으로 그 서비스 코드를 구현하면서 시작되었습니다.
 
